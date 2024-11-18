@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017794007430",
+    "firebase_url": "https://smartsync2-af9a3-default-rtdb.firebaseio.com",
+    "project_id": "smartsync2-af9a3",
+    "storage_bucket": "smartsync2-af9a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017794007430:android:9f53775d883cb1b7fb9c07",
+        "android_client_info": {
+          "package_name": "com.example.smartsync2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_bzkbjM2NJFEFRFa4HrEqrhuwQmH9iyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

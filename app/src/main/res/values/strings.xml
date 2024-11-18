@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing Strings -->
+    <string name="app_name">SmartSync</string>
+    <string name="device_status">Device Status: %s</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="timer_control">Timer Control</string>
+    <string name="no_logs">No logs yet</string>
+    <string name="logs_title">Logs</string>
+
+    <!-- Newly Added Strings -->
+    <string name="start_time">Start Time:</string>
+    <string name="end_time">End Time:</string>
+    <string name="set_schedule">Set Schedule</string>
+</resources>

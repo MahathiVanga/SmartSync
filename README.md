@@ -27,8 +27,4 @@ SmartSync is an innovative IoT device monitoring application designed to simplif
 2. The app fetches real-time data from the devices using Firebase Realtime Database.  
 3. Features like scheduling and activity tracking provide efficient device management.
 
-## Installation
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/SmartSync.git
